@@ -1,5 +1,6 @@
 # stsread
 taiji-dxl
+<<<<<<< master
 
 #master changes
 
@@ -13,3 +14,5 @@ push2
 
 
 
+=======
+>>>>>>> b6b6374 123 32
